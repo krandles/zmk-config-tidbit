@@ -4,4 +4,4 @@
  * SPDX-License-Identifier: MIT
  */
 
-include "tidbit.dtsi"
+#include "tidbit.dtsi"
